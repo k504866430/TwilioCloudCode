@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "ninjadad"
+        }, 
+        "ninjadad": {
+            "applicationId": "20vVReFO5IaO7Uauenmu7apVa6FeL0a92Xrz50ey", 
+            "masterKey": "yCV53Dw9b3i581lGokkWvz1SmKJstpzZ2Q8G9Y2z"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.4"
+    }
+}
